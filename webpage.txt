@@ -4,14 +4,14 @@
 </head>
 
 <body>
-<h1>Pandu is giving treat today at 1PM at KFC</h1>
+<h1>This is instance launched by terraform</h1>
 
 
 <button onclick="myFunction()">Click here if you want treat from Pandu</button>
 
 <script>
 function myFunction() {
-  alert("I am an alert box!");
+  alert("This has been created by Vijay");
 }
 </script>
 
